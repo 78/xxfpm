@@ -5,6 +5,7 @@ FCGI Process Manager
 
 ## 使用方式
 
+```
 Usage: xxfpm path [-n number] [-i ip] [-p port]
 Manage FastCGI processes.
 
@@ -16,6 +17,7 @@ Manage FastCGI processes.
 -r, –root change root direcotry for the processes
 -h, –help output usage information and exit
 -v, –version output version information and exit
+```
 
 ## 相关博文
 
